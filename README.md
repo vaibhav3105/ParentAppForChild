@@ -1,4 +1,4 @@
-# firebase_2_apps
+# Parent App For Child
 
 A new Flutter project.
 
